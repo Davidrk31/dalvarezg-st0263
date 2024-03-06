@@ -51,13 +51,32 @@ Luego correr los archivos de los peers:
     'python server.py'
     'python client.py'
 
+Los puertos de los peers, se configuran segun su orden de llegada, cuando un peer se conecta se le asigna un puerto, luego al desconectarse este puerto queda libre otra vez
+
+
+La ip usada fue la local de la maquina: "127.0.0.1"
+
+
+Archivos:
+
+
+![image](https://github.com/Davidrk31/dalvarezg-st0263/assets/89051979/8e535cf3-db5c-430b-b16c-a03543c88eb0)
+
+
+# 4 Ambiente de ejecucion:
+Para este reto 1 y 2 todo se hizo de manera local 
+
 
 # Referencias:
 
-https://youtu.be/WB37L7PjI5k 
-https://putukusuma.medium.com/creating-simple-cryptocurrency-part-5-peer-to-peer-p2p-with-grpc-f96913ddd7dd
-https://blog.hubspot.com/website/what-is-rest-api#:~:text=A%20REST%20API%20(also%20called,resource%20in%20a%20standardized%20representation.
-https://github.com/cpurta/p2p-grpc
-https://grpc.io/docs/languages/python/basics/
+* https://youtu.be/WB37L7PjI5k 
+
+* https://putukusuma.medium.com/creating-simple-cryptocurrency-part-5-peer-to-peer-p2p-with-grpc-f96913ddd7dd
+
+* https://blog.hubspot.com/website/what-is-rest-api#:~:text=A%20REST%20API%20(also%20called,resource%20in%20a%20standardized%20representation.
+
+* https://github.com/cpurta/p2p-grpc
+
+* https://grpc.io/docs/languages/python/basics/
 
 
