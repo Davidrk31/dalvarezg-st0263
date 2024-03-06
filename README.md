@@ -25,6 +25,10 @@
 
 - Se utiliza API REST para la comunicación entre el cliente y el servidor HTTP y gRPC para la comunicación entre los nodos en la red P2P. Esto permite una comunicación eficiente y flexible entre los componentes del sistema, implementando los dos middleware.
 
+![image](https://github.com/Davidrk31/dalvarezg-st0263/assets/89051979/a51934d0-4db6-46af-b5ce-cf1182a795e7)
+
+
+
 # 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
 
 - IDE: Visual Studio Code
