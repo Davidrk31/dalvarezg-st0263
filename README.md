@@ -58,8 +58,12 @@ Luego correr los archivos de los peers:
     'python server.py'
     'python client.py'
 
+
+
 Los puertos de los peers, se configuran segun su orden de llegada, cuando un peer se conecta se le asigna un puerto, luego al desconectarse este puerto queda libre otra vez
 
+
+En los metodos, cuando se realiza la simulacion de la descarga de un archivo el sistema comprueba si el peer esta conectado y luego si el archivo existe, si este existe dira descarga exitosa y se devolvera el nombre del archivo y si no dependiendo del caso, indicara que el peer no existe/no esta conectado o que el archivo no se encuentra en ese peer.
 
 La ip usada fue la local de la maquina: "127.0.0.1"
 
