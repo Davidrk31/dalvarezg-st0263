@@ -29,6 +29,9 @@
 
 - IDE: Visual Studio Code
 - Lenguaje de Programación: Python v3.11.5
+- Middleware:
+  * Api Rest
+  * gRPC
 - Librerías: 
   * grpcio v1.62.0 
   * grpcio-tools v1.62.0
