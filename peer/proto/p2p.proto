@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package p2p;
+
+service P2PServer {
+    rpc GetFile (GetFileRequest) returns (GetFileResponse);
+}
+
+message GetFileRequest {
+    string filename = 1;
+    string peer_username = 2;
+}
+
+message GetFileResponse {
+    string message = 1;
+}

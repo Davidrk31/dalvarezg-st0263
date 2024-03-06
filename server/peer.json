@@ -1,0 +1,48 @@
+{
+    "peers": [
+        {
+            "username": "peer1",
+            "password": "peer1",
+            "files": [
+                "hola.txt",
+                "adios.txt",
+                "archivo1.txt"
+            ],
+            "connected": 1,
+            "port": 50052
+        },
+        {
+            "username": "peer2",
+            "password": "peer2",
+            "files": [
+                "goku.png",
+                "league.exe",
+                "etc.txt"
+            ],
+            "connected": 1,
+            "port": 50053
+        },
+        {
+            "username": "peer3",
+            "password": "peer3",
+            "files": [
+                "p2p.txt",
+                "david.txt",
+                "spotify.exe"
+            ],
+            "connected": 1,
+            "port": 50054
+        },
+        {
+            "username": "peer4",
+            "password": "peer4",
+            "files": [
+                "chrome.exe",
+                "ken.png",
+                "mario.txt"
+            ],
+            "connected": 1,
+            "port": 50055
+        }
+    ]
+}
